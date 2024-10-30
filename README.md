@@ -9,7 +9,7 @@ Criss se distingue por su capacidad de trabajo en equipo, liderazgo y adaptabili
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<crisslilith@outlook.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/crisslilith/)**
 - Puedes visitar mi **[sitio web](http://www.criss.cl)**
 
 ### 🎨 Frontend
