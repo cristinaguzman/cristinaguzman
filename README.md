@@ -1,10 +1,10 @@
 # Hola 👋, soy Criss
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Criss es una diseñadora profesional con más de 10 años de experiencia en diseño gráfico, web y UX/UI. Su carrera destaca por una sólida habilidad en la creación de productos digitales intuitivos y atractivos, así como en el desarrollo de soluciones visuales de alta calidad para proyectos diversos. Criss es experta en herramientas de diseño como Adobe Illustrator, Photoshop e InDesign, y posee dominio en desarrollo web con HTML, CSS, JavaScript y WordPress. Además, su formación en UX/UI le permite integrar un enfoque centrado en el usuario, aplicando conocimientos avanzados en Figma y Adobe XD.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+A lo largo de su trayectoria, Criss ha liderado proyectos de diseño para clientes de diversos sectores, gestionando desde sitios web profesionales hasta campañas de comunicación visual que fortalecen la identidad de marca. Su experiencia incluye colaboración en empresas como Europapress y Greenbyte, donde ha contribuido al fortalecimiento de la presencia digital y la mejora de la experiencia de usuario. Asimismo, ha participado en iniciativas culturales autogestionadas como "CityLove", donde ha impulsado la visibilidad de artistas locales y fomentado la participación comunitaria.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Criss se distingue por su capacidad de trabajo en equipo, liderazgo y adaptabilidad, habilidades que complementa con un compromiso activo en el aprendizaje continuo y en la implementación de estrategias digitales innovadoras.
 
 ## 📫 Contacto
 
